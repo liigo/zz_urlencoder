@@ -1,0 +1,10 @@
+[package]
+authors = ["Liigo Zhuang <liigo@qq.com>"]
+name = "zz_urlencoder"
+version = "0.1.0"
+
+[dependencies]
+url = "1.4.0"
+
+[lib]
+crate-type = ["cdylib"]
